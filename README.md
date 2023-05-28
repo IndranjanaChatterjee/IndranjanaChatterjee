@@ -3,6 +3,7 @@
    Hi 👋 Let me introduce myself ,I'm Indranjana Chatterjee 
   </u> </b> </i> </h1>
 <h3 align="center"  ><i> <u> A passionate frontend developer and coder from India </u> </i> </h3>
+<img  align="right" width=400px  src="656d4352a92d2cdb5e395b90ec69707f.jpeg">
 <img  align="center" width=500px  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="center" width=20px> <img src="https://komarev.com/ghpvc/?username=indranjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="indranjanachatterjee" /> </p>
 
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indranjanachatterjee&show_icons=true&locale=en" alt="indranjanachatterjee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranjanachatterjee&" alt="indranjanachatterjee" /></p>
+
