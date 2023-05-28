@@ -1,3 +1,4 @@
+![logo]([https://www.shutterstock.com/image-illustration/banner-about-programming-coding-course-neural-1887006397.png](https://cdn3.f-cdn.com/contestentries/1482462/29286212/5c97d4eb7d367_thumb900.jpg))
 <h1 align="center">Hi 👋 Let me introduce myself ,I'm Indranjana Chatterjee</h1>
 <h3 align="center">A passionate frontend developer and coder from India</h3>
 <img align="left" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
