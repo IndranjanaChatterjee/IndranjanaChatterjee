@@ -1,6 +1,6 @@
 ![logo](5c97d4eb7d367_thumb900.webp)
 <h1 align="center"  > <i> <b> <u> 
-   Hi 👋 Let me introduce myself ,I'm Indranjana Chatterjee 
+   Hi 👋 I'm Indranjana Chatterjee 
   </u> </b> </i> </h1>
 <h3 align="center"  ><i> <u> A passionate frontend developer and coder from India </u> </i> </h3>
 <div align="center" width=100% >
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indranjanachatterjee&show_icons=true&locale=en" alt="indranjanachatterjee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranjanachatterjee&" alt="indranjanachatterjee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranjanachatterjee&theme=dark" alt="indranjanachatterjee" /></p>
