@@ -3,10 +3,10 @@
    Hi 👋 Let me introduce myself ,I'm Indranjana Chatterjee 
   </u> </b> </i> </h1>
 <h3 align="center"  ><i> <u> A passionate frontend developer and coder from India </u> </i> </h3>
-<img  align="center" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=indranjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="indranjanachatterjee" /> </p>
+<img  align="right" width=350px  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<p align="center" width=30px> <img src="https://komarev.com/ghpvc/?username=indranjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="indranjanachatterjee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranjanachatterjee" alt="indranjanachatterjee" /></a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranjanachatterjee" alt="indranjanachatterjee" /></a> </p>
 
 - 🌱 I’m currently learning **web development and dsa**
 
