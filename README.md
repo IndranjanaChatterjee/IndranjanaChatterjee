@@ -4,7 +4,7 @@
   </u> </b> </i> </h1>
 <h3 align="center"  ><i> <u> A passionate frontend developer and coder from India </u> </i> </h3>
 <div align="center" width=100% >
-   <img  align="left" width=40%  src="656d4352a92d2cdb5e395b90ec69707f.jpeg">
+   <img  align="left" width=60%  src="656d4352a92d2cdb5e395b90ec69707f.jpeg">
    <img  align="right" width=50%  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
