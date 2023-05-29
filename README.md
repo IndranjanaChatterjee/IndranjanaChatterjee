@@ -5,14 +5,14 @@
 <h3 align="center"  ><i> <u> A passionate frontend developer and coder from India </u> </i> </h3>
 <div align="center" width=100% >
    
-   <img align="center"  width=40%  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+   <img align="center"  width=60%  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
    
 
    </div>
    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indranjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="indranjanachatterjee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=indranjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="indranjanachatterjee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranjanachatterjee&theme=dark" alt="indranjanachatterjee" /></a> </p>
+<div align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranjanachatterjee&theme=dark" alt="indranjanachatterjee" /></a> </p></div>
 
 - 🌱 I’m currently learning **web development and dsa**
 
