@@ -2,7 +2,7 @@
 <h1 align="center"  > <i> <b> <u> 
    Hi 👋 I'm Indranjana Chatterjee 
   </u> </b> </i> </h1>
-<h3 align="center"  ><i> <u> A passionate frontend developer and coder from India </u> </i> </h3>
+<h3 align="center"  ><i> <u> A passionate coder from India </u> </i> </h3>
 <div align="center" width=100% >
    
    <img align="center"  width=60%  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
