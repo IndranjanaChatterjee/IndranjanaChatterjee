@@ -1,6 +1,6 @@
 ![logo](5c97d4eb7d367_thumb900.webp)
 <h1 align="center"  > <i> <b> <u> 
-   Hi 👋 I'm Indranjana Chatterjee 
+   Hi 👋 I'm  Indranjana  Chatterjee 
   </u> </b> </i> </h1>
 <h3 align="center"  ><i> <u> A passionate coder from India </u> </i> </h3>
 <div align="center" width=100% >
