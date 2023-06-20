@@ -10,7 +10,7 @@
 <h3 align="center"  ><i> <u> A passionate coder from India </u> </i> </h3>
 <div align="center" width=100% >
    
-   <img align="center"  width=60%  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+   <img align="center"  width=40%  src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
    
 
    </div>
