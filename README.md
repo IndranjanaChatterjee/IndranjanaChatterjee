@@ -1,4 +1,9 @@
-![logo](5c97d4eb7d367_thumb900.webp)
+<div align="center" width=100% >
+   
+   <img align="center"  width=60%  src="https://www.autoitscript.com/forum/uploads/monthly_2020_03/tech.gif.7449db47191b0e32967887c117908b3c.gif">
+   
+
+   </div>
 <h1 align="center"  > <i> <b> <u> 
    Hi 👋 I'm  Indranjana  Chatterjee 
   </u> </b> </i> </h1>
