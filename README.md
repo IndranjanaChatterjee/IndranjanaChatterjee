@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indranjanachatterjee&show_icons=true&locale=en&theme=github_dark_dimmed" alt="indranjanachatterjee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranjanachatterjee&theme=github_dark_dimmed" alt="indranjanachatterjee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranjanachatterjee&theme=radical" alt="indranjanachatterjee" /></p>
