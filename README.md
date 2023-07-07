@@ -1,6 +1,6 @@
 <div align="center" width=100% height=50% >
    
-   <img align="center"  width=80% height=20%  src="https://bionome.in/wp-content/uploads/2022/06/genomics-gifff.gif">
+   <img align="center"  width=80% height=15%  src="https://bionome.in/wp-content/uploads/2022/06/genomics-gifff.gif">
    
 
    </div>
