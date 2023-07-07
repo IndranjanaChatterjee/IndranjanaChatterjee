@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **web development and dsa**
 
-- 💬 Ask me about **java,c,html,css,js**
+- 💬 Ask me about **java,c,html,css,js and cp**
 
 - 📫 How to reach me **indranjanachatterjee@gmail.com**
 
