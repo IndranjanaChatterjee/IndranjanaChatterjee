@@ -1,6 +1,6 @@
 <div align="center" width=100% height=50%  >
    
-   <img align="center"  width=80% height=15%  src="https://giffiles.alphacoders.com/120/120251.gif">
+   <img align="center"  width=80% height=15%  src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
    
 
    </div>
