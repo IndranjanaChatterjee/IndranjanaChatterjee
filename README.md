@@ -18,7 +18,7 @@
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indranjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="indranjanachatterjee" /> </p>
 
-<div align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranjanachatterjee&theme=matrix" alt="indranjanachatterjee" /></a> </p></div>
+<div align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranjanachatterjee&theme=matrix&margin-w=15&column=4" alt="indranjanachatterjee" /></a> </p></div>
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indranjanachatterjee&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="indranjanachatterjee" /></p></div>
 
 - 🌱 I’m currently learning **web development and dsa**
