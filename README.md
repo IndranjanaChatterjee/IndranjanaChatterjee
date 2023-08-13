@@ -1,6 +1,6 @@
 <div align="center" width=100% height=100%  >
    
-   <img align="center"  width=70% height=15%  src="https://64.media.tumblr.com/fd2cea40b0a00b6dd96946974fb2ec0c/tumblr_o7vs1zNO341runoqyo3_540.gif">
+   <img align="center"  width=70% height=15%  s="https://mspoweruser.com/wp-content/uploads/2023/01/ai-revised2.gif">
    
 
    </div>
