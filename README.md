@@ -1,6 +1,6 @@
 <div align="center" width=100% height=100%  >
    
-   <img align="center"  width=70% height=15%  s="https://mspoweruser.com/wp-content/uploads/2023/01/ai-revised2.gif">
+   <img align="center"  width=70% height=15%  src="https://i.gifer.com/J4o.gif">
    
 
    </div>
