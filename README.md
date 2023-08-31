@@ -19,7 +19,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranjanachatterjee&theme=matrix" alt="indranjanachatterjee" /></a> </p>
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indranjanachatterjee&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="indranjanachatterjee" /></p></div>
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranjanachatterjee&theme=blue_navy" alt="indranjanachatterjee" /></p></div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranjanachatterjee&theme=radical" alt="indranjanachatterjee" /></p></div>
 
 - 🌱 I’m currently learning **mern stack and dsa**
 
