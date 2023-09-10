@@ -7,7 +7,7 @@
 <h1 align="center"  > <i> <b> <u> 
    Hi  👋   I'm Indranjana Chatterjee 
   </u> </b> </i> </h1>
-<h3 align="center">A passionate coder and developer from India</h3>
+<h3 align="center"> A passionate coder and developer from India</h3>
 <div align="center" width=100% >
    
    <img align="center"  width=40%  src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
