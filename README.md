@@ -4,9 +4,9 @@
    
 
    </div>
-<h1 align="center"  > <i> <b> <u> 
+<h1 align="center"  >  <b> <u> 
    Hi  👋   I'm Indranjana Chatterjee 
-  </u> </b> </i> </h1>
+  </u> </b>  </h1>
 <h3 align="center"> A passionate coder and developer from India</h3>
 <div align="center" width=100% >
    
