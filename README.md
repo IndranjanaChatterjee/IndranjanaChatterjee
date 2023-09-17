@@ -30,6 +30,8 @@
 - 📫 How to reach me **indranjanachatterjee@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
+  
+-  <b>[PORTFOLIO👩‍💻](https://indranjana-portfolio.netlify.app/)</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
