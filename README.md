@@ -34,15 +34,15 @@
 <img align="right"  width="400"  height="300" src="https://blog.penjee.com/wp-content/uploads/2015/11/binary-search-tree-sorted-array-animation.gif">
 <div align="left">
    
-- 🌱 I’m currently learning **mern stack and dsa**
+- 🌱 I’m currently learning **✩  🎀  𝑀𝑒𝓇𝓃 𝒮𝓉𝒶𝒸𝓀 𝒶𝓃𝒹 𝒟𝒮𝒜  🎀  ✩**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IndranjanaChatterjee](https://github.com/IndranjanaChatterjee)
 
-- 💬 Ask me about **html,css,javascript,c,java python**
+- 💬 Ask me about **𝐇𝐓𝐌𝐋 ,𝐂𝐒𝐒 ,𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓, 𝐂 ,𝐉𝐀𝐕𝐀 𝐚𝐧𝐝 𝐏𝐘𝐓𝐇𝐎𝐍**
 
 - 📫 How to reach me **indranjanachatterjee@gmail.com**
 
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+- ⚡ Fun fact :   **​🇮​​🇹​’​🇸​ ​🇦​​🇱​​🇱​ 0️⃣’​🇸​ ​🇦​​🇳​​🇩​ 1️⃣’​🇸**
   
 -  <b>[PORTFOLIO👩‍💻](https://indranjana-portfolio.netlify.app/)</b>
 </div>
