@@ -20,11 +20,15 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranjanachatterjee&theme=matrix" alt="indranjanachatterjee" /></a> </p>
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indranjanachatterjee&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="indranjanachatterjee" /></p></div>
 <div align="center">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=indranjanachatterjee&theme=radical" alt="indranjanachatterjee" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=indranjanachatterjee&show_icons=true&locale=en&theme=radical" alt="indranjanachatterjee" /></p></div>
+<p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=indranjanachatterjee&theme=radical" alt="indranjanachatterjee" /></p>
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=indranjanachatterjee&show_icons=true&locale=en&theme=radical" alt="indranjanachatterjee" /></p></div>
 
+
+
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=IndranjanaChatterjee&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" /></p>
 
 <br></br>
+<div align="left">
 - 🌱 I’m currently learning **mern stack and dsa**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IndranjanaChatterjee](https://github.com/IndranjanaChatterjee)
@@ -36,6 +40,7 @@
 - ⚡ Fun fact **It’s all 0’s and 1’s**
   
 -  <b>[PORTFOLIO👩‍💻](https://indranjana-portfolio.netlify.app/)</b>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,5 +55,5 @@
 
 
 
-<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=IndranjanaChatterjee&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" /></p>
+
 
