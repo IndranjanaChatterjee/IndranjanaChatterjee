@@ -31,6 +31,7 @@
 
 
 <br></br>
+<img align="right"  width="400"  height="300" src="https://blog.penjee.com/wp-content/uploads/2015/11/binary-search-tree-sorted-array-animation.gif">
 <div align="left">
    
 - 🌱 I’m currently learning **mern stack and dsa**
@@ -45,6 +46,7 @@
   
 -  <b>[PORTFOLIO👩‍💻](https://indranjana-portfolio.netlify.app/)</b>
 </div>
+
 
 
 
