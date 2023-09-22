@@ -50,8 +50,13 @@
 
 
 
-<h1 >
 
+
+
+
+
+
+<h1>
 📖 Skills 💻
 </h1>
 <h2>Programming Languages:&nbsp;&nbsp; <!-- Language -->
