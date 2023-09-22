@@ -44,6 +44,36 @@
   
 -  <b>[PORTFOLIO👩‍💻](https://indranjana-portfolio.netlify.app/)</b>
 </div>
+<h1 align=center>
+
+📖: Skills 💻:
+</h1>
+
+
+
+<h1>Programming Languages:&nbsp;&nbsp; <!-- Language -->
+    <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="40" alt="python" align=right>&nbsp;&nbsp;
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg"  height="40"alt="C++" align=right>&nbsp;&nbsp;
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" height="40" alt="C" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>Frontend:&nbsp;&nbsp; <!-- Frontend -->
+    <img src="https://seeklogo.com/images/J/java-script-js-logo-ACF4AE5082-seeklogo.com.png" height="40" alt="JavaScript" align=right>&nbsp;&nbsp;
+    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" height="40" alt="CSS" align=right>&nbsp;&nbsp;
+    <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" height="40" alt="HTML" align=right>&nbsp;&nbsp;
+</h1>
+<h1>Libraries And Frameworks:&nbsp;&nbsp; <!-- Frontend -->
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" height="40" alt="React" align=right>&nbsp;&nbsp;
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" height="40" alt="BootStrap" align=right>&nbsp;&nbsp;
+    
+</h1>
+
+
+
+<h1>Others:&nbsp;&nbsp; <!-- IoT -->
+   <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" height="40" alt="Git" align=right>&nbsp;&nbsp;
+    <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" height="40" alt="Arduino" align=right>&nbsp;&nbsp;
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
