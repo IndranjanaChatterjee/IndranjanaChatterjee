@@ -46,5 +46,5 @@
 
 
 <div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indranjanachatterjee&show_icons=true&locale=en&theme=radical" alt="indranjanachatterjee" /></p></div>
-
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=IndranjanaChatterjee&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" /></p>
 
