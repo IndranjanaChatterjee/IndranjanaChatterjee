@@ -1,14 +1,11 @@
-<div align="center" width=100% height=100%  >
-   
-   <img align="center"  width=70% height=15% src="https://www.autoitscript.com/forum/uploads/monthly_2020_03/tech.gif.7449db47191b0e32967887c117908b3c.gif">
-   
+[![An image of @indranjanachatterjee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indranjanachatterjee)](https://holopin.io/@indranjanachatterjee)
 
-   </div>
+
 
 <h1 align="center"  >  <b> <u> 
    Hi  👋 I'm Indranjana Chatterjee 
   </u> </b>  </h1>
-<h3 align="center"> A passionate coder and developer from India</h3>
+<h3 align="center"> A passionate coder and developer</h3>
 <div align="center" width=100% >
    
    <img align="center"  width=40%  src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
@@ -19,6 +16,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indranjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="indranjanachatterjee" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranjanachatterjee&theme=matrix&row=2&column=4&margin-w=15&margin-h=15" alt="indranjanachatterjee" /></a> </p>
+
 <div align="center">
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indranjanachatterjee&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="indranjanachatterjee" /></p></div>
 
