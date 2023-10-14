@@ -102,7 +102,18 @@
 | [![Github Repo](https://img.shields.io/badge/N0vice17-DataStructures--And--Algorithm-blue?style=flat-square)](https://github.com/N0vice17/DataStructures-And-Algorithm) | ![GitHub Repo stars](https://img.shields.io/github/stars/N0vice17/DataStructures-And-Algorithm?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/N0vice17/DataStructures-And-Algorithm?style=flat-square) | 
 
 
+<hr>
+
 </div>
+
+<div align="center">
+ <h2 align="center" id = "achievements"> Achievements 🏆🏅🎉</h2>
+
+<li><a href="https://drive.google.com/file/d/1jrcm-vgUPfxVN3k3hUSTKvhBfSx89qBD/view?usp=sharing" />1st position at UCODE 6.0</a></li>
+
+
+</div>
+<hr>
 
 
 
