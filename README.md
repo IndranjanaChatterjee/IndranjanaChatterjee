@@ -108,8 +108,9 @@
 
 <div align="center">
  <h2 align="center" id = "achievements"> Achievements 🏆🏅🎉</h2>
+ 
 
-<li><a href="https://drive.google.com/file/d/1jrcm-vgUPfxVN3k3hUSTKvhBfSx89qBD/view?usp=sharing" />1st position at UCODE 6.0</a></li>
+| [1st position at UCODE 6.0](https://drive.google.com/file/d/1jrcm-vgUPfxVN3k3hUSTKvhBfSx89qBD/view?usp=sharing) | 
 
 
 </div>
