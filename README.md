@@ -100,6 +100,7 @@
 | --- | --- | --- |
 | [![Github Repo](https://img.shields.io/badge/Agnik7-Arduino--Codes-blue?style=flat-square)](https://github.com/Agnik7/Arduino-Codes) | ![GitHub Repo stars](https://img.shields.io/github/stars/Agnik7/Arduino-Codes?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/Agnik7/Arduino-Codes?style=flat-square) |
 | [![Github Repo](https://img.shields.io/badge/N0vice17-DataStructures--And--Algorithm-blue?style=flat-square)](https://github.com/N0vice17/DataStructures-And-Algorithm) | ![GitHub Repo stars](https://img.shields.io/github/stars/N0vice17/DataStructures-And-Algorithm?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/N0vice17/DataStructures-And-Algorithm?style=flat-square) | 
+| [![Github Repo](https://img.shields.io/badge/parag477-Amazing--Webdev--Components-blue?style=flat-square)](https://github.com/parag477/Amazing-Webdev-Components) | ![GitHub Repo stars](https://img.shields.io/github/stars/parag477/Amazing-Webdev-Components?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/parag477/Amazing-Webdev-Components?style=flat-square) | 
 
 
 <hr>
