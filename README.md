@@ -1,9 +1,3 @@
-<h1>Badges 🏆🏆🏆</h1>
-
-[![An image of @indranjanachatterjee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indranjanachatterjee)](https://holopin.io/@indranjanachatterjee)
-
-
-
 <h1 align="center"  >  <b> <u> 
    Hi  👋    I'm Indranjana Chatterjee 
   </u> </b>  </h1>
@@ -14,6 +8,18 @@
    
 
    </div>
+
+
+
+
+<h1>Badges 🏆🏆🏆</h1>
+
+[![An image of @indranjanachatterjee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indranjanachatterjee)](https://holopin.io/@indranjanachatterjee)
+
+
+
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indranjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="indranjanachatterjee" /> </p>
 
