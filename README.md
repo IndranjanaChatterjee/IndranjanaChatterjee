@@ -23,7 +23,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indranjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="indranjanachatterjee" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=indranjanachatterjee&theme=matrix&row=3&column=4&margin-w=15&margin-h=15" alt="indranjanachatterjee" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=indranjanachatterjee&theme=dracula&row=3&column=4&margin-w=15&margin-h=15" alt="indranjanachatterjee" /></a> </p>
 
 <div align="center">
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indranjanachatterjee&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="indranjanachatterjee" /></p></div>
