@@ -12,7 +12,6 @@ Hi👋  I'm Indranjana Chatterjee
 </div>
 
 
-
 <h2>My Badges 🏆🏆🏆</h2>
 
 [![An image of @indranjanachatterjee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indranjanachatterjee)](https://holopin.io/@indranjanachatterjee)
