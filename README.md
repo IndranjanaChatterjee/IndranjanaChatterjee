@@ -6,7 +6,7 @@
 <div align="center" width=100% >
 <img align="center"  width=40%  src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
-   </div>
+</div>
 
 
 
