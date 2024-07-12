@@ -49,11 +49,10 @@ Hi👋   I'm  Indranjana Chatterjee
 - 📫 How to reach me **indranjanachatterjee@gmail.com**
 
 - ⚡ Fun fact :   **​🇮​​🇹​’​🇸​ ​🇦​​🇱​​🇱​ 0️⃣’​🇸​ ​🇦​​🇳​​🇩​ 1️⃣’​🇸**
-- <h1>My Porfolios:</h1>
-  
--  <b> [Portfolio 1 👩‍💻](https://indranjana-portfolio.vercel.app/)  </b>
 
-- <b> [Portfolio 2 👩‍💻](https://portfolio-lilac-two-99.vercel.app/)  </b>
+-  <b> [MY PORTFOLIO 👩‍💻](https://indranjana-portfolio.vercel.app/)  </b>
+
+
 </div>
 
 
