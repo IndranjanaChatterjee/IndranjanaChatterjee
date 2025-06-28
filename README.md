@@ -54,15 +54,24 @@
 
 
 </div>
+<h2 align="left" id="work-experience">💼✨ Work Experience 🧠💻</h2> 
 
-
-
-
-
-
-
-
-
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🏢 Company</b></td> 
+      <td><b>👨‍🔬 Role</b></td> 
+      <td><b>📆 Duration</b></td> 
+    </tr>
+  </thead>
+  <tbody> 
+    <tr>
+      <td><a href="https://www.hyland.com"><b>Hyland Software Solutions India LLP</b></a></td>
+      <td><b>🔬 R&D Intern – Software Development</b></td>
+      <td><b>Jun 2025 – Present</b></td>
+    </tr>
+  </tbody>	 
+</table>
 
 <h1>
 📖 Skills 💻
