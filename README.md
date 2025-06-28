@@ -67,7 +67,7 @@
   <tbody> 
     <tr>
       <td><a href="https://www.hyland.com"><b>Hyland Software Solutions India LLP</b></a></td>
-      <td><b>🔬 R&D Intern – Software Development</b></td>
+      <td><b>🖥️ R&D Intern – Software Development</b></td>
       <td><b>Jun 2025 – Present</b></td>
     </tr>
   </tbody>	 
