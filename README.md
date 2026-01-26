@@ -49,7 +49,7 @@ Hi👋 I'm Indranjana Chatterjee
 
 - ⚡ Fun fact :   **​🇮​​🇹​’​🇸​ ​🇦​​🇱​​🇱​ 0️⃣’​🇸​ ​🇦​​🇳​​🇩​ 1️⃣’​🇸**
 
--  <b> [MY PORTFOLIO 👩‍💻](https://indranjana-portfolio.vercel.app/)  </b>
+-  <b> [MY PORTFOLIO 👩‍💻](https://indranjana-chatterjee-portfolio.vercel.app/)  </b>
 
 
 </div>
