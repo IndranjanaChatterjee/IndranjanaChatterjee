@@ -145,7 +145,7 @@ I'm a Software Engineer passionate about designing scalable applications, solvin
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IndranjanaChatterjee&theme=radical&row=2&column=4"/>
+<p align="center"><img src="https://github-trophies.vercel.app/?username=IndranjanaChatterjee&margin-w=5&theme=radical&no-frame=true&no-bg=true" alt="Indranjana Chatterjee" /></p> 
 
 </p>
 
