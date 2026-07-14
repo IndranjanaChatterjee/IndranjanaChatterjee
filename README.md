@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Indranjana Chatterjee</h1>
-
 <h3 align="center">
 Developer 1 @ Hyland Software Solutions India LLP | Java Full Stack Developer | Software Engineer
 </h3>
