@@ -7,8 +7,7 @@ Developer 1 @ Hyland Software Solutions India LLP | Java Full Stack Developer | 
 <img src="https://komarev.com/ghpvc/?username=IndranjanaChatterjee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </a>
 </p>
----
-# 👨‍💻 About Me
+👨‍💻 About Me
 
 I'm a Software Engineer passionate about designing scalable applications, solving challenging problems, and continuously learning modern technologies.
 
