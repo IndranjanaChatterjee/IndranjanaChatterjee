@@ -8,7 +8,6 @@ Developer 1 @ Hyland Software Solutions India LLP | Java Full Stack Developer | 
 </a>
 </p>
 ---
-
 # 👨‍💻 About Me
 
 I'm a Software Engineer passionate about designing scalable applications, solving challenging problems, and continuously learning modern technologies.
